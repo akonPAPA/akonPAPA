@@ -75,9 +75,9 @@
 </p>
 
 ### 💭 Dev Quote
-
+#### Hiden secret, so don't tab the quote ->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <a href="https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/watch?v%3DdQw4w9WgXcQ&ved=2ahUKEwi6iuH51MiVAxX2VKQEHVd1GogQy_kOegoIAggACAAIBRAE&opi=89978449&cd&psig=AOvVaw2ZVQ34yj195KqtYAKOUWpC&ust=1783791942256000" target="_blank" rel="noopener noreferrer"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
