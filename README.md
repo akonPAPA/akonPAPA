@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/akonPAPA">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Wassup%20Im%20Akan%20and%20let%20me%20cook" alt="Wassup ,I think ah was right or left" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Wassup%20,%20I%20think%20ah%20was%20right%20or%20left" alt="Wassup ,I think ah was right or left" />
   </a>
 </p>
 
