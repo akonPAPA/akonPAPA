@@ -9,13 +9,11 @@
 </p>
 
 ### 🚀 About Me
-
-🔭 &nbsp;I'm currently working on **Uneployee**  
-🌱 &nbsp;I'm currently learning **ML&amp;DL and DeffOffSec currently working on OffSec+ cert**  
+ 
+🌱 &nbsp;I'm currently learning **ML&AI systems dev and Def/OffSecurity currently working on OSAI certificate**  
 👯 &nbsp;I'm looking to collaborate on **AI creation and developing tools for businesses**  
-🤔 &nbsp;I'm looking for help with **AI developing right now creating another form of calc than backpropogation and trying to develope another form like LoRA and QLoRA**  
-💬 &nbsp;Ask me about **Java, Spring framework, Collab, Joining your team or creating new team.Im open for offers and opportunities to creat or work in interesting projects**  
-⚡ &nbsp;Fun fact: **Chrlie Charlie are you Kirk?**
+🤔 &nbsp;I'm looking for help with **AI developing , right now trying to wrap the context and reasoning power into better performance and lower system requirements**  
+💬 &nbsp;Ask me about **Java, Spring framework, Collab, Joining your team or creating new team.Im open for offers and opportunities to creat or work in interesting projects for free**  
 
 ### 🛠️ Tech Stack
 
