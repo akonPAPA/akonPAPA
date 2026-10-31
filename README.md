@@ -5,15 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=430&height=44&lines=Doing%20fun%20with%20AI%20%2B%20OffSec" alt="Typing headlines" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=430&height=44&lines=Aura%20farming%20af%20between%20%2B%20larpers" alt="Typing headlines" />
 
-### 🚀 About Me
- 
-🌱 &nbsp;I'm currently learning **ML&AI systems dev and Def/OffSecurity currently working on OSAI certificate**  
-👯 &nbsp;I'm looking to collaborate on **AI creation and developing tools for businesses**  
-🤔 &nbsp;I'm looking for help with **AI developing , right now trying to wrap the context and reasoning power into better performance and lower system requirements**  
-💬 &nbsp;Ask me about **Java, Spring framework, Collab, Joining your team or creating new team.Im open for offers and opportunities to creat or work in interesting projects for free**  
 
 ### 🛠️ Tech Stack
 
