@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=430&height=44&lines=Aura%20farming%20af%20between%20%2B%20larpers" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=430&height=44&lines=Aura%20farming%20af%20among%20larpers" alt="Typing headlines" />
 
 
 ### 🛠️ Tech Stack
